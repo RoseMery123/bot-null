@@ -6,7 +6,7 @@ let handler = async(m, { conn }) => {
 ├ permanen
 ├ 1 Bulan
 ├ 1 Minggu
-├ 3 hari
+├〔 list day 〕
 └────
 Silahkan klik pada "List Harga" untuk melihat list.
 
