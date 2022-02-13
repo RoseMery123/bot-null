@@ -24,9 +24,9 @@ yakali minat: 1 Oktober 2021
         buttonText: 'beli dm ff/ml',
         description: kontol,
         sections:  [{title: "silahkan di pilih", rows: [
-        {title: 'beli diamond ml', description: "100% amanah", rowId:".dmml"}
+        {title: 'beli diamond ml', description: "100% amanah", rowId:".dmml"},
+        {title: 'sewabot', description: "", rowId:".sewa"},
         {title: 'beli diamond ff', description: "100% amanah", rowId:".dmff"},
-        {title: 'sewabot', description: "100% menepati janji", rowId:".sewa"}
         {title: 'Owner', description: "", rowId:".owner"},
        ] }],
         listType: 1
@@ -34,9 +34,9 @@ yakali minat: 1 Oktober 2021
     conn.sendMessage(m.chat, button, MessageType.listMessage, { quoted: m })
 }
 
-handler.tags = ['info']
-handler.command = /^(store|store)$/i
+handler.tags = ['info', 'tools']
+handler.command = /^(store)$/i
 handler.help = ['store']
 module.exports = handler
 
-//ubah aja fahrilGemGe
+//ubah aja case by 
