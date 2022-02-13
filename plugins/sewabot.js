@@ -3,7 +3,7 @@ let { MessageType } = require('@adiwajshing/baileys')
 let handler = async(m, { conn }) => {
     let kamisato = `
 ┌〔 List day 〕
-├ 2 Bulan
+├ permanen
 ├ 1 Bulan
 ├ 1 Minggu
 ├ 3 hari
