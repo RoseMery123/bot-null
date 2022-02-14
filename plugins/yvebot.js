@@ -7,6 +7,8 @@ let caption = `*HALO Bang*\n*Saya fahrilbotz*\n*Pilih Menu Di Bawah Yaa Bree*\n*
 conn.send3Button(m.chat, caption, `Powered By Baileys\nCreated fahrilbotz By fahril\n`.trim(), '🧾MENU', '.?', 'creator fahrilbotz', '.owner', '📖Info Bot', '.infobot', m)
 }
 
+handler.help = ['hel']
+handler.tags = ['info']
 handler.command = /^(hel)$/i
 handler.owner = false
 handler.mods = false
