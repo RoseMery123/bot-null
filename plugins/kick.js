@@ -10,7 +10,7 @@ handler.group = true
 handler.botAdmin = true
 handler.admin = true
 
-handler.limit = tru
+handler.limit = false
 
 module.exports = handler
 
