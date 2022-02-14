@@ -7,10 +7,10 @@ let handler = async (m, { conn, args }) => {
   conn.sendFile(m.chat, res, 'nama.jpg', `Nih Mhank`, m, false)
 }
 handler.help = ['jokerlogo'].map(v => v + ' <teks>')
-handler.tags = ['sticker']
+handler.tags = ['sticker', 'nulis']
 handler.command = /^(jokerlogo)$/i
 handler.limit = true
-handler.register = true
+handler.register = false
 
 module.exports = handler
 
