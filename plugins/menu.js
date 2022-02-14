@@ -232,7 +232,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 │
 │⬡ note : jangan spam bot ^^
-│⬡「 sc ori by fahril 」
+│⬡ ʟɪsᴛ ᴍᴇɴᴜ ᴋʟɪᴋ ʙᴀᴄᴀ sᴇʟᴇɴɢᴋᴀᴘɴʏᴀ
 │
 ╰─────⬣
 
