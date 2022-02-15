@@ -11,7 +11,7 @@ handler.tags = ['owner', 'group']
 
 handler.command = /^setwelcome$/i
 handler.admin = true
-handler.private = false
+handler.group = true
 
 module.exports = handler
 
