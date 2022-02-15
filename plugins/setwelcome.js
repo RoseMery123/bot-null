@@ -10,9 +10,6 @@ handler.help = ['setwelcome <teks>']
 handler.tags = ['owner', 'group']
 
 handler.command = /^setwelcome$/i
-handler.private = true
-handler.group = true
-handler.owner = true
 
 module.exports = handler
 
