@@ -7,9 +7,9 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/LgVZAb0emPrDMxU41qOjvj', ''] // ganti jadi group lu
-global.owner = ['6285876902820','6285876902820'] // Put your number here //owner eval
-global.kontak = ['6285876902820','6285876902820'] //Ketika ada yang ngetik #owner
-global.mods = ['6285876902820'] // Want some help?
+global.owner = ['6289504575881','6289504575881'] // Put your number here //owner eval
+global.kontak = ['6289504575881','6289504575881'] //Ketika ada yang ngetik #owner
+global.mods = ['6289504575881'] // Want some help?
 global.prems = ['6285876902820','6285876902820','6285876902820'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -41,19 +41,19 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'fahril ahmad'
 namagithub = 'Fahrilahmad'
 kasihcaption = `Nih kak`
-namakontak1 = 'fahril one'
-namakontak2 = 'fahril two'
+namakontak1 = 'swister'
+namakontak2 = 'swister'
 caption = 'Nih Kak'
 
 // Sticker WM
-global.packname = 'By fahril' // ganti aja
+global.packname = 'By swister' // ganti aja
 global.author = 'fahrilbotz' // ganti aja
 
 
 bc = 'fahrilbotz' //fahril Broadcast
-footer = '\n©fahril'
-namabot = 'fahrilbotz'
-namalu = 'fahril'
+footer = '\n©swister'
+namabot = 'nullbot'
+namalu = 'swister'
 
 
 // 
